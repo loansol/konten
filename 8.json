@@ -1,111 +1,154 @@
 {
-    "Ads": [
-      {
-        "select_main_ads": "ADMOB",
-        "select_backup_ads":"APPLOVIN-D",
-        "main_ads_banner": "ca-app-pub-8799090825709075/8652257235",
-        "main_ads_intertitial":"ca-app-pub-8799090825709075/9707739482",
-        "main_ads_natives":"",
-        "backup_ads_natives":"",
-        "backup_ads_banner":"",
-        "backup_ads_intertitial":"",
-        "open_ads_admob":"ca-app-pub-8799090825709075/3591502240",
-        "open_ads_alien":"",
-        "switch_open_ads":"1",
-        "switch_banner_natives_ads":"",
-        "interval_intertitial": 3,
-        "initialize_sdk":"",
-        "initialize_sdk_backup_ads":"",
-        "high_paying_keyword_1": "investasi",
-        "high_paying_keyword_2": "pinjaman",
-        "high_paying_keyword_3": "saham",
-        "high_paying_keyword_4": "crypto",
-        "high_paying_keyword_5": "penghasilan",
-        "status_app": "0",
-        "link_redirect": "https://ptmencaricintasejati.com"
-      }
-   ],
-    "Data": [
-      {
-        "id": 3,
-        "name_category": "tentang Pinjaman Cepat Cair Aman Tips",
-        "title": "Apa itu Pinjaman Cepat Cair Aman Tips?",
-        "image": "https://danakoo.id/wp-content/uploads/2022/12/kta-kilat.jpg",
-        "description": "Tentang Pinjaman Cepat Cair Aman Tips",
-        "link": "Panduan Rotten Data Pinjol  Cair mengacu pada praktik  beberapa pinjaman online atau Pinjol yang memperoleh data pribadi dari nasabah melalui cara ilegal atau tidak etis dan kemudian menggunakannya untuk memberikan pinjaman dengan kondisi yang tidak jelas atau merugikan. Dalam praktik ini, Pinjol memperoleh akses ke informasi pribadi pelanggan, seperti nomor telepon, alamat email, dan informasi keuangan,  kemudian menggunakannya untuk menjangkau pelanggan dengan penawaran pinjaman yang berguna bagi mereka. Namun, dalam beberapa kasus, Pinjol mungkin menggunakan informasi yang buruk atau  tidak akurat untuk menentukan kondisi pinjaman, seperti jumlah pinjaman yang melebihi kemampuan pelanggan untuk membayar, suku bunga yang tinggi, dan pembayaran tambahan yang tidak wajar. Akibatnya, pelanggan mungkin menemukan diri mereka dalam hutang yang terus meningkat dan berjuang untuk membayar kembali pinjaman mereka. Tindakan Quote Liquid Data  Guide adalah ilegal dan melanggar  privasi pelanggan serta merugikan masyarakat luas. Oleh karena itu, penting bagi konsumen untuk berhati-hati dan memilih pinjaman yang andal dan bereputasi serta membaca dan memahami dengan cermat semua syarat dan ketentuan yang terkait dengan pinjaman ini, serta biaya dan bunganya. Jika Anda merasa dirugikan oleh praktik peminjaman data yang buruk dari panduan, Anda harus segera memberi tahu otoritas yang sesuai."
-      },
-      {
-        "id": 1,
-        "name_category": "Tutorial",
-        "title": "Bagaimana mengajukan Pinjaman Cepat Cair Aman Tips?",
-        "image": "https://danakoo.id/wp-content/uploads/2022/12/pinjaman-online-langsung-cair-2023.jpg",
-        "description": "Cara  mengajukan Pinjaman Cepat Cair Aman Tips",
-        "link": "Anda bisa mengajukan pinjaman online (Pinjol) dan mendapatkan dana cair dengan mengikuti langkah-langkah berikut: Pilih platform Pinjol yang tepat: Ada banyak platform Pinjol yang tersedia saat ini, jadi pastikan Anda memilih yang sesuai dengan kebutuhan Anda. Juga, pastikan untuk membaca ulasan dan peringkat pengguna sebelum  mendaftar. Pendaftaran dan verifikasi akun: Setelah Anda memilih platform Pinjoli yang tepat, langkah selanjutnya adalah mendaftar dan membuat akun. Anda harus mengisi formulir pendaftaran dan memberikan informasi pribadi yang benar. Harap pastikan bahwa Anda memberikan informasi yang lengkap dan valid karena informasi ini akan digunakan dalam proses persetujuan. Verifikasi Akun dan Data Pribadi: Setelah pendaftaran, platform Pinjoli melakukan proses verifikasi data Anda. Ini termasuk identifikasi, bukti pekerjaan atau pendapatan, dan  informasi lain yang diperlukan. Untuk memastikan proses persetujuan yang lancar, pastikan Anda memberikan informasi yang benar dan valid. Ajukan pinjaman: Setelah akun dan informasi Anda diverifikasi, Anda dapat mulai mengajukan pinjaman. Pilih jumlah pinjaman yang diinginkan dan periode pembayaran yang sesuai. Pastikan untuk membaca syarat dan ketentuan dengan hati-hati, termasuk bunga dan biaya lainnya. Tunggu konfirmasi: Setelah mengajukan aplikasi pinjaman, platform Pinjoli memeriksa aplikasi Anda dan mengonfirmasi apakah informasi yang diberikan valid dan memenuhi persyaratan. Setelah disetujui, Anda akan diberi tahu dan dana akan segera dikreditkan ke akun Anda. Pelunasan pinjaman: Setelah uang diterima, pastikan  Anda melunasi pinjaman sesuai dengan jadwal pembayaran yang telah disepakati. Jangan lupa untuk membaca persyaratannya dengan seksama agar tidak dikenakan biaya tambahan atau denda yang tidak diinginkan. Hindari meminjam lebih dari yang Anda butuhkan: pada akhirnya, penting bagi Anda untuk hanya meminjam  jumlah yang Anda butuhkan dan dapat membayar kembali dengan lancar. Hindari meminjam lebih dari yang Anda butuhkan, karena ini dapat meningkatkan risiko hutang dan masalah keuangan lainnya."
-      },
-      {
-        "id": 2,
-        "name_category": "Tutorial",
-        "title": "Resiko  Pinjaman Cepat Cair Aman Tips seperti apa?",
-        "image": "https://financer.com//app/uploads/sites/28/2020/01/cara-mengajukan-pinjaman-online.jpg",
-        "description": "Resiko  Pinjaman Cepat Cair Aman Tips",
-        "link": "pinjol disertai dengan beberapa resiko yang harus diperhatikan sebelum mengajukan pinjaman. Beberapa risiko  yang terkait dengan pinjaman meliputi: Suku bunga tinggi: Pinjaman seringkali menawarkan suku bunga yang lebih tinggi dibandingkan dengan lembaga keuangan tradisional, terutama untuk pinjaman  jangka  pendek. Hal ini dapat meningkatkan biaya pinjaman  dan mempersulit pembayaran kembali pinjaman. Pinjaman perpanjangan atau over-inflated: Jika Anda tidak membayar pinjaman Anda tepat waktu, biaya tambahan seperti denda dan bunga dapat membuat hutang semakin  besar dan sulit untuk dilunasi. Risiko keamanan data: Pinjol memerlukan akses ke data pribadi Anda untuk memproses aplikasi pinjaman. Kebocoran atau penyalahgunaan informasi Anda dapat mengakibatkan kerugian finansial dan risiko keamanan lainnya. Penggunaan Informasi Pribadi: Platform Pinjoli dapat mengumpulkan dan menggunakan informasi pribadi Anda, seperti riwayat kredit dan informasi keuangan lainnya, untuk tujuan pemasaran atau bisnisnya sendiri. Pastikan  Anda memahami kebijakan privasi dan bagaimana informasi pribadi Anda akan digunakan. Pemberi pinjaman ilegal: Pemberi pinjaman ilegal atau pemberi pinjaman yang tidak terdaftar secara resmi di lembaga keuangan juga berisiko. Pemberi pinjaman tersebut mungkin menawarkan pinjaman dengan tingkat bunga yang lebih tinggi atau membebankan biaya tersembunyi yang dapat merugikan pelanggan. Untuk menghindari risiko pinjaman ini, pastikan untuk memilih pinjaman terpercaya yang resmi terdaftar  di lembaga keuangan. Selain itu, sebelum mengajukan pinjaman, baca dan pahami ketentuan pinjaman dengan cermat  dan pastikan  Anda dapat melunasi pinjaman tepat waktu."
-      },
-      {
-        "id": 4,
-        "name_category": "Tutorial",
-        "title": "Apa Pinjaman Cepat Cair Aman Tips bisa cair?",
-        "image": "https://atmnews.id/wp-content/uploads/2022/12/pinjaman-online-langsung-cair-ktp-24-jam.jpg",
-        "description": "Apakah Bisa Cair",
-        "link": "Dengan pinjaman online atau Pinjoli, Anda dapat dengan mudah mengajukan pinjaman  melalui platform online tanpa harus mengunjungi kantor fisik. Pinjaman data cair adalah  jenis pinjaman online di mana Anda dapat mengajukan pinjaman dengan cepat dan mudah, dan uangnya dibayarkan dalam waktu yang relatif singkat, biasanya dalam beberapa jam atau hari kerja. Mengajukan pinjaman dari Liquid Data Loans memerlukan langkah-langkah sebagai berikut: Pilih platform Pinjoli terpercaya yang terdaftar resmi oleh lembaga keuangan. Daftarkan dan masukkan informasi pribadi dan  keuangan yang diminta oleh platform Pinjoli. Tunjukkan jumlah pinjaman dan jangka waktu pinjaman yang diinginkan. Tunggu konfirmasi dari platform Pinjoli, biasanya dalam beberapa jam atau hari kerja. Setelah disetujui, dana akan disetorkan ke akun Anda. Namun, penting untuk diingat bahwa pinjaman data cair seringkali menawarkan suku bunga yang lebih tinggi daripada lembaga keuangan tradisional dan dapat menimbulkan risiko keuangan jika tidak dipertimbangkan dengan cermat. Sebelum mengajukan pinjaman, pastikan untuk membaca dan memahami syarat dan ketentuan pinjaman, termasuk bunga dan biaya lainnya. Juga, pastikan  Anda dapat melunasi pinjaman tepat waktu dan Anda tidak meminjam lebih dari yang Anda butuhkan. Jika Anda mengalami kesulitan keuangan, sebaiknya Anda mencari bantuan dan saran dari ahli keuangan atau lembaga keuangan yang terpercaya sebelum memutuskan untuk mengajukan pinjaman."
-      },
-      {
-        "id": 5,
-        "name_category": "Tutorial Pinjol OJK Mudah di ACC List",
-        "title": "Cara Pinjaman Cepat Cair Aman Tips ke Wallet",
-        "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/01/31/2041349456.jpg",
-        "description": "Pinjaman Cepat Cair Aman Tips ke Wallet",
-        "link": "Sebelum menerima pinjaman online atau dompet pinjaman online, pastikan  Anda telah mempertimbangkan kebutuhan keuangan Anda dan  memahami sepenuhnya biaya dan risiko yang terlibat dalam pinjaman tersebut. Selain itu, pastikan  Anda memilih pemberi pinjaman yang andal dan bereputasi baik. Berikut adalah beberapa tips untuk mengambil pinjaman online dan membayar uang ke dompet Anda: Pilih platform pinjaman online yang andal dan bereputasi baik. Sebelum mengajukan pinjaman, jangan lupa untuk membaca dan memahami syarat-syarat pinjaman. Isi  aplikasi dengan benar dan lengkap dan pastikan  semua informasi yang diperlukan diisi dengan benar. Verifikasi identitas Anda dengan benar dan lengkap, biasanya dengan mengirimkan foto KTP atau selfie dengan KTP. Tunggu persetujuan dan pembayaran ke dompet Anda. Proses persetujuan dan pembayaran biasanya memakan waktu beberapa hari tergantung  kebijakan pemberi pinjaman. Setelah dana masuk ke dompet Anda, pastikan untuk mengelola dan menggunakannya dengan bijak sehingga Anda dapat melunasi pinjaman tepat waktu dan meminimalkan risiko yang terkait dengan pinjaman tersebut. Selalu baca syarat dan ketentuan dengan hati-hati dan pastikan  Anda memahami semua biaya, bunga, dan kewajiban yang terkait dengan pinjaman."
-      },
-      {
-        "id": 6,
-        "name_category": "Tutorial",
-        "title": "Apakah Pinjaman Cepat Cair Aman Tips ditagih ?",
-        "image": "https://jabarekspres.com/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-05-at-21.56.46.jpeg",
-        "description": "Apa Pinjaman Cepat Cair Aman Tips di tagih ?",
-        "link": "Praktik  ilegal dan tidak etis dari pinjaman pelaporan kredit sangat merugikan pelanggan dan seringkali menyebabkan masalah keuangan yang lebih besar. Praktik tersebut dapat mencakup penggunaan informasi pribadi yang tidak benar atau tidak sah untuk tujuan pinjaman, bunga dan biaya yang tidak wajar, dan  penagihan utang yang tidak jujur ​​atau tidak sah. Prosedur penagihan kredit macet dapat bervariasi tergantung pada kebijakan dan praktik  masing-masing Pinjoli. Beberapa Pinjolit mungkin terlibat dalam penagihan hutang yang agresif dan ilegal, seperti mengancam atau memaksa pelanggan untuk melunasi pinjaman atau biaya yang berlebihan. Sementara itu, peminjam lain mungkin tidak menagih sama sekali dan hanya menagih melalui SMS atau telepon. Namun, penting untuk diingat bahwa setelah Anda  mengambil pinjaman dari Pinjol Data Rotten, Anda tidak berhak untuk membayar bunga dan biaya yang tidak sah atau tidak wajar. Anda berhak melaporkan kegiatan peminjaman yang tidak etis atau ilegal kepada otoritas terkait dan, jika perlu, mencari bantuan hukum. Untuk menghindari pinjaman data yang buruk, selalu pilih platform Pinjoli yang terdaftar  resmi dan memiliki reputasi  baik. Sebelum mengajukan pinjaman, selalu baca dan pahami persyaratan pinjaman dengan cermat  dan pastikan  Anda dapat melunasi pinjaman tepat waktu. Jika Anda mengalami kesulitan keuangan, sebaiknya Anda mencari bantuan dan saran dari ahli keuangan atau lembaga keuangan yang terpercaya sebelum memutuskan untuk mengajukan pinjaman."
-      },
-      {
-        "id": 7,
-        "name_category": "Tutorial",
-        "title": "Rekomendasi Pinjaman Cepat Cair Aman Tips?",
-        "image": "https://radarutara.disway.id/upload/d9a1a004c3201e05cc15e4be455121e0.jpg",
-        "description": "Ini Pinjaman Cepat Cair Aman Tips Rekomendasinya",
-        "description": "Ini  Rekomendasinya",
-        "link": "Jika Anda membutuhkan pinjaman, pilih platform Pinjoli yang resmi terdaftar dan bereputasi baik. Sebelum mengajukan pinjaman, pastikan untuk membaca dan memahami syarat dan ketentuan pinjaman, termasuk bunga dan biaya lainnya. Jika Anda mengalami kesulitan keuangan, Anda harus mencari bantuan dan saran dari profesional keuangan atau lembaga keuangan yang terpercaya. Ada sejumlah lembaga  atau organisasi keuangan yang dapat membantu Anda  mengatasi masalah keuangan, seperti penasihat keuangan, koperasi atau badan amal yang fokus pada penguatan ekonomi masyarakat. Semoga informasi ini bermanfaat dan jika Anda memiliki pertanyaan lain, jangan ragu untuk bertanya."
-      },
-      {
-        "id": 8,
-        "name_category": "Tutorial",
-        "title": "keuntungan menggunakan Pinjaman Cepat Cair Aman Tips?",
-        "image": "https://images.bisnis.com/posts/2022/11/11/1597129/ilustrasi-pinjaman-online-atau-pinjol.jpg",
-        "description": "Berikut ini beberapa keuntungannya Pinjaman Cepat Cair Aman Tips yang perlu kamu ketahui.",
-        "link": "jika Anda membutuhkan pinjaman, disarankan untuk memilih platform Pinjoli yang resmi terdaftar  dan memiliki reputasi  baik. Menggunakan platform Pinjoli resmi memiliki beberapa keuntungan, antara lain: Transparansi biaya dan bunga: Platform  resmi Pinjoli memberikan informasi yang jelas dan transparan mengenai biaya dan bunga yang dibayarkan oleh pelanggan. Anda dapat membandingkan harga dan suku bunga dari berbagai platform pinjaman sebelum memilih salah satu yang paling cocok untuk Anda. Proses aplikasi yang mudah dan cepat: Platform  resmi Pinjoli biasanya memiliki proses aplikasi yang sederhana dan mudah dengan waktu persetujuan yang cepat. Anda dapat mengajukan pinjaman dengan cepat dan mudah melalui ponsel atau situs web, dan uangnya dapat ditransfer langsung ke rekening bank Anda secara instan. Fleksibilitas pinjaman: Platform Pinjoli resmi biasanya menawarkan opsi pinjaman yang berbeda dari jumlah  kecil hingga besar dan jangka waktu pinjaman yang fleksibel. Anda dapat memilih pinjaman  sesuai dengan kebutuhan dan kemungkinan keuangan Anda. Keamanan  dan privasi data: Platform Pinjoli resmi biasanya memiliki sistem keamanan data dan privasi yang baik untuk melindungi informasi pribadi pelanggan. Anda dapat yakin bahwa informasi pribadi Anda aman dan tidak disalahgunakan. Semoga informasi ini bermanfaat dan jika Anda memiliki pertanyaan lain, jangan ragu untuk bertanya."
-      },
-      {
-        "id": 9,
-        "name_category": "Tutorial",
-        "title": "Kerugian Pinjaman Cepat Cair Aman Tips",
-        "image": "https://i0.wp.com/www.biem.co/wp-content/uploads/2021/01/ilustrasi-pinjaman-online.jpg",
-        "description": "Berikut kerugiannya Pinjaman Cepat Cair Aman Tips",
-        "link": "Pinjaman Data Buruk adalah ilegal dan tidak etis. Pelanggan yang terlibat dalam praktik semacam itu dapat menghadapi banyak kerugian, termasuk: Biaya dan tingkat bunga yang tidak terkendali: Informasi pinjaman Rotten sering menawarkan pinjaman dengan tingkat bunga yang sangat tinggi dan biaya  yang tidak jelas. Hal ini dapat menyebabkan klien terjerumus ke dalam siklus hutang yang tidak pernah berakhir. Pencairan dana yang tidak jelas: Informasi pinjaman yang busuk seringkali tidak jelas dalam proses pencairan dan dapat menunda atau menolak pencairan dana kepada nasabah. Hal ini dapat mempersulit pelanggan untuk membayar tagihan atau kewajiban keuangan lainnya. Ancaman dan intimidasi:  Data Loans Rotten sering menggunakan taktik menakut-nakuti dan ancaman untuk memaksa pelanggan membayar utangnya. Hal ini dapat menyebabkan rasa tidak aman bagi klien dan membahayakan kesejahteraan mental dan emosional. Penyalahgunaan Informasi Pribadi: Pinjol Data Busuk sering meminta pelanggan untuk memberikan informasi pribadi yang sensitif seperti nomor KTP atau rekening bank. Hal ini dapat menyebabkan penyalahgunaan informasi pribadi pelanggan atau pencurian identitas. Konsekuensi Hukum: Pinjol Data Busuk adalah kegiatan ilegal dan dapat menimbulkan konsekuensi hukum yang serius bagi pelanggan yang terlibat dalam kegiatan tersebut. Oleh karena itu, sangat disarankan untuk menghindari pinjaman Bad Data  dan memilih platform pinjaman yang terdaftar  resmi dan bereputasi baik jika Anda membutuhkan pinjaman. Selalu baca dan pahami persyaratan pinjaman dengan cermat dan pastikan Anda dapat melunasi pinjaman tepat waktu. Jika Anda berjuang secara finansial, carilah bantuan dari lembaga keuangan tepercaya atau profesional keuangan"
-      },
-      {
-        "id": 10,
-        "name_category": "Tutorial",
-        "title": "Hadist Tentang  Pinjaman Cepat Cair Aman Tips",
-        "image": "https://t-2.tstatic.net/kalteng/foto/bank/images/pinjol-ilegal-ilus.jpg",
-        "description": "Ini Hadistnya Pinjaman Cepat Cair Aman Tips",
-        "link": "Pertama, jangan melakukan praktik ribawi (riba: hiu). Riba sebagai pinjaman adalah  nilai tambah atau bunga lebih dari jumlah pinjaman, jika dikembalikan dengan nilai tertentu, yang diambil dari  pokok pinjaman yang harus dibayar oleh peminjam. Larangan (larangan) riba  secara khusus disebutkan (shorih) dalam Al-Qur'an, Allah telah menghalalkan jual beli dan mengharamkan riba (Al-Baqarah [2]: 275). Kedua, jangan menunda membayar utang Anda. Hukum menunda pembayaran utang jika Anda mampu adalah ilegal. Rasulullah, semoga dia memberkati dia dan memberinya kedamaian, mengatakan: "Menunda pembayaran mereka yang dapat membenarkan kepercayaan diri mereka dan  sanksi mereka (HR. Nasa'i) dalam hadits riwayat Imam Bukhari, ini dia Apakah itu Telah disebutkan bahwa orang yang mendapat janji, menunda (pembayaran) mereka adalah kezaliman (HR. Bukhori) Ketiga, memaafkan orang yang tidak dapat membayar utangnya adalah perbuatan mulia. . . Bahkan jika debitur meninggal dunia, ahli waris wajib membayarnya. Akan tetapi, jika orang yang meminjamkan uang kepada pemberi pinjaman benar-benar tidak dapat melunasi hutangnya, maka pemaafan merupakan perbuatan yang mulia dalam ajaran Islam."
-      }
-    ]
-  }
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner":"ca-app-pub-6775284507507716/2374537775",
+      "main_ads_intertitial":"ca-app-pub-6775284507507716/1077219230",
+      "main_ads_natives":"ca-app-pub-6775284507507716/8117819041",
+      "backup_ads_natives":"b143ad102d7200d4",
+      "backup_ads_banner":"d31908f1c0fbb96c",
+      "backup_ads_intertitial":"acc6c5f52857ddbe",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"2",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "investasi",
+      "high_paying_keyword_2": "pinjaman",
+      "high_paying_keyword_3": "saham",
+      "high_paying_keyword_4": "crypto",
+      "high_paying_keyword_5": "penghasilan",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Test",
+      "image": "https://i0.wp.com/dianisa.com/wp-content/uploads/2022/11/5-Gambar-pemandangan-laut-dengan-perahu.jpg?resize=1280%2C720&ssl=1",
+      "link": "https://play.google.com/store/apps/details?id=com"
+    } 
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tutorialku",
+      "image": "https://www.djkn.kemenkeu.go.id/files/images/2021/10/ilustrasi-pinjaman-online-atau-pinjol.jpg"
+    } 
+  ],
+  "Data": [
+
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "10 Langkah untuk Menjauh dari Pinjaman Online",
+      "image": "https://www.djkn.kemenkeu.go.id/files/images/2021/10/ilustrasi-pinjaman-online-atau-pinjol.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/loansol/html/main/1.html"
+    } ,{
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Mengelola Keuangan Secara Efektif: Menghindari Pinjaman Online",
+      "image": "https://www.djkn.kemenkeu.go.id/files/images/2021/10/ilustrasi-pinjaman-online-atau-pinjol.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/loansol/html/main/2.html"
+    } ,
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Hidup Tanpa Pinjaman Online: Strategi dan Tips Praktis",
+      "image": "https://www.djkn.kemenkeu.go.id/files/images/2021/10/ilustrasi-pinjaman-online-atau-pinjol.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/loansol/html/main/3.html"
+    } ,{
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "Menghindari Jerat Pinjaman Online: Cara Menjaga Kemandirian Keuangan?",
+      "image": "https://www.djkn.kemenkeu.go.id/files/images/2021/10/ilustrasi-pinjaman-online-atau-pinjol.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/loansol/html/main/4.html"
+    } ,{
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "Panduan Mengatur Anggaran dan Menghindari Pinjaman Online",
+      "image": "https://www.djkn.kemenkeu.go.id/files/images/2021/10/ilustrasi-pinjaman-online-atau-pinjol.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/loansol/html/main/5.html"
+    } ,{
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": "Kunci Sukses Keuangan: Menghindari Pinjaman Online",
+      "image": "https://www.djkn.kemenkeu.go.id/files/images/2021/10/ilustrasi-pinjaman-online-atau-pinjol.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/loansol/html/main/6.html"
+    } ,{
+      "id": 7,
+      "name_category": "Tutorial",
+      "title": "Mengatasi Godaan Pinjaman Online: Membangun Disiplin Keuangan",
+      "image": "https://www.djkn.kemenkeu.go.id/files/images/2021/10/ilustrasi-pinjaman-online-atau-pinjol.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/loansol/html/main/7.html"
+    } ,{
+      "id": 8,
+      "name_category": "Tutorial",
+      "title": "Perencanaan Keuangan Jangka Panjang: Cara Menghindari Pinjaman Online",
+      "image": "https://www.djkn.kemenkeu.go.id/files/images/2021/10/ilustrasi-pinjaman-online-atau-pinjol.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/loansol/html/main/8.html"
+    } ,{
+      "id": 9,
+      "name_category": "Tutorial",
+      "title": "Menghadapi Kecemasan Keuangan: Alternatif Pinjaman Online",
+      "image": "https://www.djkn.kemenkeu.go.id/files/images/2021/10/ilustrasi-pinjaman-online-atau-pinjol.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/loansol/html/main/9.html"
+    } ,{
+      "id": 10,
+      "name_category": "Tutorial",
+      "title": "Meningkatkan Tabungan: Langkah-langkah Menghindari Pinjaman Online",
+      "image": "https://www.djkn.kemenkeu.go.id/files/images/2021/10/ilustrasi-pinjaman-online-atau-pinjol.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/loansol/html/main/10.html"
+    } ,{
+      "id": 11,
+      "name_category": "Tutorial",
+      "title": "Membangun Kebiasaan Keuangan yang Sehat: Menghindari Pinjaman Online",
+      "image": "https://www.djkn.kemenkeu.go.id/files/images/2021/10/ilustrasi-pinjaman-online-atau-pinjol.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/loansol/html/main/11.html"
+    } ,{
+      "id": 12,
+      "name_category": "Tutorial",
+      "title": "Melakukan Investasi Daripada Pinjaman Online: Membangun Keberlanjutan Keuangan",
+      "image": "https://www.djkn.kemenkeu.go.id/files/images/2021/10/ilustrasi-pinjaman-online-atau-pinjol.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/loansol/html/main/12.html"
+    } ,{
+      "id": 13,
+      "name_category": "Tutorial",
+      "title": "Pentingnya Literasi Keuangan: Menghindari Pinjaman Online",
+      "image": "https://www.djkn.kemenkeu.go.id/files/images/2021/10/ilustrasi-pinjaman-online-atau-pinjol.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/loansol/html/main/13.html"
+    } ,{
+      "id": 14,
+      "name_category": "Tutorial",
+      "title": "Mengelola Impuls Belanja: Mencegah Ketergantungan Pinjaman Online",
+      "image": "https://www.djkn.kemenkeu.go.id/files/images/2021/10/ilustrasi-pinjaman-online-atau-pinjol.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/loansol/html/main/14.html"
+    } ,{
+      "id": 15,
+      "name_category": "Tutorial",
+      "title": "Pentingnya Membangun Cadangan Keuangan: Menghindari Pinjaman Online",
+      "image": "https://www.djkn.kemenkeu.go.id/files/images/2021/10/ilustrasi-pinjaman-online-atau-pinjol.jpg",
+      "description": "Pinjaman online alias pinjol adalah pinjaman tanpa jaminan atau tanpa menyertakan suatu aset yang dijadikan sebagai jaminan atas pinjaman itu.",
+      "link": "https://raw.githack.com/loansol/html/main/15.html"
+    } 
+   
+  ]
+}
